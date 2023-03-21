@@ -1,11 +1,11 @@
 [
-  "GET",
-  "HEAD",
-  "POST",
-  "PUT",
-  "DELETE",
-  "CONNECT",
-  "OPTIONS",
-  "TRACE",
-  "PATCH"
+  { "name": "GET" },
+  { "name": "HEAD" },
+  { "name": "POST" },
+  { "name": "PUT" },
+  { "name": "DELETE" },
+  { "name": "CONNECT" },
+  { "name": "OPTIONS" },
+  { "name": "TRACE" },
+  { "name": "PATCH" }
 ]
