@@ -1,6 +1,0 @@
-{
-  "$id": "https://json-unify.github.io/examples/fibonacci.json",
-  "$schema": "https://json-unify.github.io/schemas/v1.json",
-  "title": "The Fibonacci infinite sequence",
-  "dataset": { "$eval": "fibonacci()" }
-}
