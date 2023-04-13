@@ -1,6 +1,6 @@
 [
   {
-    "id": "SHBH00001",
+    "sku": "SHBH00001",
     "url": "https://siphappensbeanhappy.com/products/espresso-yourself-whole-latte-love",
     "title": "Espresso Yourself - Whole Latte Love!",
     "price": 35,
@@ -8,7 +8,7 @@
     "currency": "USD"
   },
   {
-    "id": "SHBH00002",
+    "sku": "SHBH00002",
     "url": "https://siphappensbeanhappy.com/products/morning-coffee-first-or-hear-my-roar",
     "title": "MORNING COFFEE FIRST, OR HEAR MY ROAR!!!",
     "price": 35,
@@ -16,7 +16,7 @@
     "currency": "USD"
   },
   {
-    "id": "SHBH00003",
+    "sku": "SHBH00003",
     "url": "https://siphappensbeanhappy.com/products/my-boss-wants-me-to-be-multi-tasking-but-my-pets-want-me-to-be-no-tasking",
     "title": "My Boss wants me to be multi-tasking, but my pets want me to be no-tasking",
     "price": 35,
@@ -24,7 +24,7 @@
     "currency": "USD"
   },
   {
-    "id": "SHBH00004",
+    "sku": "SHBH00004",
     "url": "https://siphappensbeanhappy.com/products/uptown-funky-mug-im-too-hot-the-grooviest-coffee-experience-in-town",
     "title": "UPTOWN FUNKY MUG: I'M TOO HOT - The Grooviest Coffee Experience in Town! ",
     "price": 35,
@@ -32,7 +32,7 @@
     "currency": "USD"
   },
   {
-    "id": "SHBH00005",
+    "sku": "SHBH00005",
     "url": "https://siphappensbeanhappy.com/products/ready-for-a-brew-tastic-voyage",
     "title": "Ready for a Brew-tastic Voyage?!?",
     "price": 35,
@@ -40,7 +40,7 @@
     "currency": "USD"
   },
   {
-    "id": "SHBH00006",
+    "sku": "SHBH00006",
     "url": "https://siphappensbeanhappy.com/products/mordors-dark-roast-one-bean-to-rule-them-all-the-ultimate-coffee-quest-for-the-fearless-and-bold",
     "title": "Mordor's Dark Roast: One Bean to Rule Them All - The Ultimate Coffee Quest for the Fearless and Bold!",
     "price": 35,
@@ -48,7 +48,7 @@
     "currency": "USD"
   },
   {
-    "id": "SHBH00007",
+    "sku": "SHBH00007",
     "url": "https://siphappensbeanhappy.com/products/java-jamboree",
     "title": "Java Jamboree",
     "price": 35,
