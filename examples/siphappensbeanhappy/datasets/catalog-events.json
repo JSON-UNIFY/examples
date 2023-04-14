@@ -1,0 +1,116 @@
+[
+  {
+    "sku": "SHBH00001",
+    "timestamp": "2023-04-07T06:32:54-04:00",
+    "user": 1,
+    "action": "create",
+    "data": {
+      "url": "https://siphappensbeanhappy.com/products/espresso-yourself-whole-latte-love",
+      "title": "Espresso Yourself - Whole Latte Love!",
+      "price": 30,
+      "currency": "USD"
+    }
+  },
+  {
+    "sku": "SHBH00002",
+    "timestamp": "2023-04-07T08:15:21-04:00",
+    "user": 1,
+    "action": "create",
+    "data": {
+      "url": "https://siphappensbeanhappy.com/products/morning-coffee-first-or-hear-my-roar",
+      "title": "MORNING COFFEE FIRST, OR HEAR MY ROAR!!!",
+      "price": 28,
+      "currency": "USD"
+    }
+  },
+  {
+    "sku": "SHBH00003",
+    "timestamp": "2023-04-07T10:47:59-04:00",
+    "user": 1,
+    "action": "create",
+    "data": {
+      "url": "https://siphappensbeanhappy.com/products/my-boss-wants-me-to-be-multi-tasking-but-my-pets-want-me-to-be-no-tasking",
+      "title": "My Boss wants me to be multi-tasking, but my pets want me to be no-tasking",
+      "price": 26,
+      "currency": "USD"
+    }
+  },
+  {
+    "sku": "SHBH00004",
+    "timestamp": "2023-04-07T12:19:06-04:00",
+    "user": 1,
+    "action": "create",
+    "data": {
+      "url": "https://siphappensbeanhappy.com/products/uptown-funky-mug-im-too-hot-the-grooviest-coffee-experience-in-town",
+      "title": "UPTOWN FUNKY MUG: I'M TOO HOT - The Grooviest Coffee Experience in Town! ",
+      "price": 34,
+      "currency": "USD"
+    }
+  },
+  {
+    "sku": "SHBH00005",
+    "timestamp": "2023-04-07T14:53:34-04:00",
+    "user": 1,
+    "action": "create",
+    "data": {
+      "url": "https://siphappensbeanhappy.com/products/ready-for-a-brew-tastic-voyage",
+      "title": "Ready for a Brew-tastic Voyage?!?",
+      "price": 36,
+      "currency": "USD"
+    }
+  },
+  {
+    "sku": "SHBH00006",
+    "timestamp": "2023-04-08T02:01:48-04:00",
+    "user": 1,
+    "action": "create",
+    "data": {
+      "url": "https://siphappensbeanhappy.com/products/mordors-dark-roast-one-bean-to-rule-them-all-the-ultimate-coffee-quest-for-the-fearless-and-bold",
+      "title": "Mordor's Dark Roast: One Bean to Rule Them All - The Ultimate Coffee Quest for the Fearless and Bold!",
+      "price": 38,
+      "currency": "USD"
+    }
+  },
+  {
+    "sku": "SHBH00001",
+    "timestamp": "2023-04-08T04:28:03-04:00",
+    "user": 1,
+    "action": "publish",
+    "data": {}
+  },
+  {
+    "sku": "SHBH00002",
+    "timestamp": "2023-04-08T04:29:12-04:00",
+    "user": 1,
+    "action": "publish",
+    "data": {}
+  },
+  {
+    "sku": "SHBH00003",
+    "timestamp": "2023-04-08T04:29:56-04:00",
+    "user": 1,
+    "action": "publish",
+    "data": {}
+  },
+  {
+    "sku": "SHBH00004",
+    "timestamp": "2023-04-08T04:30:15-04:00",
+    "user": 1,
+    "action": "publish",
+    "data": {}
+  },
+  {
+    "sku": "SHBH00005",
+    "timestamp": "2023-04-08T04:30:33-04:00",
+    "user": 1,
+    "action": "publish",
+    "data": {}
+  },
+  {
+    "sku": "SHBH00006",
+    "timestamp": "2023-04-08T04:35:09-04:00",
+    "user": 1,
+    "action": "publish",
+    "data": {}
+  }
+]
