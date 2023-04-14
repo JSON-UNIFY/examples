@@ -1,0 +1,80 @@
+[
+  {
+    "email": "john.doe@gmail.com",
+    "delivery_address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10001",
+      "country": "US"
+    },
+    "total_price": 94,
+    "items": {
+      "SHBH00006": 1,
+      "SHBH00005": 2
+    },
+    "timestamp": "2023-04-13T11:30:00-04:00"
+  },
+  {
+    "email": "jane.doe@gmail.com",
+    "delivery_address": {
+      "street": "456 Elm St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90001",
+      "country": "US"
+    },
+    "total_price": 58,
+    "items": {
+      "SHBH00004": 1,
+      "SHBH00002": 1
+    },
+    "timestamp": "2023-04-13T12:15:00-07:00"
+  },
+  {
+    "email": "bob.smith@yahoo.com",
+    "delivery_address": {
+      "street": "789 Oak St",
+      "city": "Chicago",
+      "state": "IL",
+      "zipcode": "60601",
+      "country": "US"
+    },
+    "total_price": 48,
+    "items": {
+      "SHBH00003": 1,
+      "SHBH00001": 1
+    },
+    "timestamp": "2023-04-13T11:45:00-05:00"
+  },
+  {
+    "email": "mary.johnson@gmail.com",
+    "delivery_address": {
+      "street": "321 Pine St",
+      "city": "Houston",
+      "state": "TX",
+      "zipcode": "77001",
+      "country": "US"
+    },
+    "total_price": 36,
+    "items": {
+      "SHBH00005": 1
+    },
+    "timestamp": "2023-04-13T10:30:00-05:00"
+  },
+  {
+    "email": "david.jones@hotmail.com",
+    "delivery_address": {
+      "street": "987 Maple St",
+      "city": "Seattle",
+      "state": "WA",
+      "zipcode": "98101",
+      "country": "US"
+    },
+    "total_price": 66,
+    "items": {
+      "SHBH00007": 2
+    },
+    "timestamp": "2023-04-13T09:00:00-07:00"
+  }
+]
